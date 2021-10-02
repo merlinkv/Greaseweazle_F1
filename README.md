@@ -29,8 +29,8 @@ This version of the interface has been tested on both 3 "and 3.5" floppy drives.
 
 # Links
 
-https://github.com/keirf/Greaseweazle
-https://github.com/keirf/Greaseweazle/releases/tag/v0.30
-https://desertsagesolutions.com/greaseweazlegui/
-https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1348
+* https://github.com/keirf/Greaseweazle
+* https://github.com/keirf/Greaseweazle/releases/tag/v0.30
+* https://desertsagesolutions.com/greaseweazlegui/
+* https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1348
 
