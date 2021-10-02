@@ -21,7 +21,8 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 USB interface for accessing a floppy drive at the raw flux level.
 
 For those who do not know, Greaseweazle is an interface that allows us to make copies of discs (with and without protection) of retro computers such as Amiga, C64, ZX Spectrum and CPC6128.
-The original design of the interface and its programming is the work of Keirf Fraser.
+
+The original design of the interface and its programming is the work of **Keirf Fraser**.
 
 It is used both to burn disc images to real discs and to make backups of original discs.
 
